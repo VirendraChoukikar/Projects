@@ -31,7 +31,7 @@ Python: (3.6 - 3.8.5)
 Anaconda Distribution: To download click here.
 
 Procedure
-git clone https://github.com/gaurav-aditya/Computer-Automation.git
+git clone (https://github.com/VirendraChoukikar/Projects)
 For detailed information about cloning visit here.
 
 Step 1:
